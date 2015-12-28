@@ -15,7 +15,9 @@ $ git config --global mergetool.meld.path "C:\Program Files (x86)\Meld\Meld.exe"
 ### Setup of SourceTree to use Meld  
 These settings are based on [this](http://stackoverflow.com/a/21144229/686720) answer at stackoverflow.com.
 - Start SourceTree  
-- Goto Tools -> Options -> Diff tab  
+- Goto Tools -> Options
+- Choose the General tab and make sure that the option Allow SourceTree to modify your global Git and Mercurial config files is checked.  
+- Choose the Diff tab  
 - Choose Custom in external diff tool  
 - Enter the path to Meld in Diff command i.e. C:\Program Files (x86)\Meld\meld.exe and enter $LOCAL $REMOTE in Arguments  
 - Choose Custom in Merge Tool
