@@ -6,4 +6,6 @@ The course [CSE1309x Introduction to Programming Using Python](https://courses.e
 ## Installing Python
 Installed Python version 3.5.1 for Windows on my home computer. It was downloaded from [python.org](https://www.python.org/downloads/).
 
+I could not find the 64-bit for my processor so I ended up downloading a 32 bit version.
+
 I choose to update my PATH during the installation.  
