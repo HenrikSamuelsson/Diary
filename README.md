@@ -8,3 +8,4 @@ Things that I plan to do.
 - Electronic lock  
 - Raspberry Pi with touch screen interface  
 - Finish the water ball app  
+- Build something based on [Contiki](http://www.contiki-os.org/)  
